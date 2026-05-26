@@ -1,0 +1,12 @@
+=========== DIGITAL INVOICE ===========
+Invoice ID: 1
+Booking ID: 1
+Energy Consumed: 26.00 kWh
+Session Duration: 2.00 hours
+Energy Source: SolarPower
+Rate Per kWh: 19.44
+Time Factor: 1.00
+Speed Factor: 1.20
+Source Factor: 0.90
+Membership Factor: 1.00
+Total Amount: 505.44
